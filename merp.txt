@@ -1,0 +1,7 @@
+"merp"
+{
+	"base"		"nutscript"
+	"title"		“MERP”
+	"author"	"Chessnut & Techno”
+	"menusystem"	"1"
+}
