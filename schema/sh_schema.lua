@@ -1,7 +1,7 @@
-SCHEMA.name = "MERP:CTF"
-SCHEMA.introName = "Mass Effect: CORSAIR TASK FORCE"
+SCHEMA.name = "MERP"
+SCHEMA.introName = "Mass Effect RP"
 SCHEMA.author = "Chessnut, Techno"
-SCHEMA.desc = "Welcome to the Constantinople."
+SCHEMA.desc = "Add me please."
 
 function SCHEMA:isCombineFaction(faction)
 	return faction == FACTION_CP or faction == FACTION_OW
